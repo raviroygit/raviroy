@@ -9,7 +9,7 @@
  border-radius: 4px;
 
  padding: 10px;
- color: #fff;
+ color:rgb(216, 79, 79);
 }
 
 .list-styles {
@@ -18,4 +18,19 @@
 
 .image-style1 {
     width: 3em;
+}
+.timeline{
+    background-image: url("../../assets/img/background/bgAboutme.png");}
+.events{
+    background-image: url("../../assets/img/background/bgAboutme.png");
+}
+.accordion{
+    background-image: url("../../assets/img/background/bgAboutme.png");
+}
+.imageevents{
+    background-image: url("../../assets/img/background/bgAboutme.png");
+}
+.text-center{
+    background-color:transparent;
+
 }

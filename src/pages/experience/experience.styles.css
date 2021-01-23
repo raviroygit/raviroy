@@ -8,4 +8,14 @@
 
 .jumbo-style {
     background-image: linear-gradient(-225deg, #2cd8d5 0%, #6b8dd6 48%, #8e37d7 100%);
+    background-image: url("../../assets/img/background/techbackground.webp");
+}
+.d-flex justify-content-center flex-column{
+    background-color: transparent;
+}
+.card{
+    background-color: rgb(64, 81, 99);
+}
+#experience{
+    background-image: url("../../assets/img/background/techbackground.webp");
 }

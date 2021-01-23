@@ -10,13 +10,13 @@ import "./experience.styles.css";
 const Experience = () => {
     return (
         <div id="experience">
-            <h1 className ="pt-3 text-center font-details-b pb-3">
+            <h1  className ="pt-3 text-center font-details-b pb-3 text-white">
                 EXPERIENCE
             </h1>
             <Jumbotron className="jumbo-style">
                 <Container>
                     <Tilt options={{max:25}}>
-                <Card>
+                <Card className="card">
                     <Card.Header as="h5" className="d-flex justify-content-center flex-wrap">
                         <Card.Img variant="top" className="img-resize" src={L_APTRON} alt="Aptron logo"/>
                         

@@ -24,6 +24,9 @@
   .font-details-b {
     font-size: 3em;
     font-weight: 500;
-    color: #ffffff;
+    color: #0f0f0f;
   }
+  #skills{
+    background-image: url("../../assets/img/background/bgAboutme.png");
+    }
   

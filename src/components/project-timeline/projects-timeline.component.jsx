@@ -18,14 +18,14 @@ import "./projects-timeline.styles.css";
 export default function TimeLine() {
   return (
     <div id="projects">
-      <h1 className="pt-3 text-center font-details-b pb-3">PROJECTS</h1>
-      <Timeline>
-                <Events>
+      <h1 className="pt-3 text-center font-details-b pb-3 text-white">PROJECTS</h1>
+      <Timeline className="timeline">
+                <Events className="events">
                     {/*Project: Portfolio */}
                     <ImageEvent date="19/07/2020"  className="text-center" text="Portfolio " src={L_PORTFOLIO} alt="Portfolio">
                     <div className="d-flex justify-content-between flex-column mt-1">
                         <div>
-                            <Accordion>
+                            <Accordion className="accordion">
                                 <Card>
                                     <Accordion.Toggle as={Card.Header} eventKey="0" className="p-2 text-center accordian-main">
                                         PROJECTS DETAILS

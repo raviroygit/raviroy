@@ -1,6 +1,7 @@
 .about{
     background-color: transparent;
     font-size: 1.1em;
+    color: white;
     
     
 }
@@ -10,8 +11,12 @@
 }
 
 .my-details {
-    background-color: rgba(41, 38, 41, 0.747);
-    color: rgb(118, 104, 180);
+    background-color: transparent;
+    color: rgb(235, 231, 245);
     
     
+    
+}
+.about-container{
+    background-image: url("../../assets/img/background/bgAboutme.png");
 }
