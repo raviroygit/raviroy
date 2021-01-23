@@ -2,7 +2,7 @@ This is a Portfolio Made using Reactjs,bootstrap,stylecomponents,etc...
 
 
 
-![Alt text](src/assets/img/screenshot/Screenshot1.png?raw=true "Title")
+![](src/assets/img/scrennshot/Screenshot1.png)
 
 
 # Getting Started with Create React App
