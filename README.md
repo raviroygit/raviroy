@@ -2,7 +2,6 @@ This is a Portfolio Made using Reactjs,bootstrap,stylecomponents,etc...
 
 
 
-![](src/assets/img/scrennshot/Screenshot1.png)
 
 
 # Getting Started with Create React App
