@@ -22,7 +22,7 @@ const About = () => {
             <Col xs={12} md={6}>
               <Row className=" align-items-start p-3 my-details rounded">
                 Hi there! I am <strong>&nbsp;Ravi Kumar</strong>
-                <br />A passionate programmer and Web Developer, born and brought up in India. I am a Full Stack Web Developer with React.js,  React Native , MSSQL as my tech stack.
+                <br />A passionate programmer and Web Developer, born and brought Sitamarhi (Bihar) in India. I am a Full Stack Web Developer with React.js,  React Native , MSSQL as my tech stack.
                 <br />
                 passout in 2020, my Engineering with specialization in 'Computer Science and Engineering'.
                 <br />
