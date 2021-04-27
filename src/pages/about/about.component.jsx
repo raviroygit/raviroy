@@ -22,9 +22,9 @@ const About = () => {
             <Col xs={12} md={6}>
               <Row className=" align-items-start p-3 my-details rounded">
                 Hi there! I am <strong>&nbsp;Ravi Kumar</strong>
-                <br />A passionate programmer and Web Developer, born and brought up in India. I am a Full Stack Web Developer with React.js,  React Native , MSSQL as my tech stack.
+                <br />A passionate programmer and Web Developer, born and brought Sitamarhi (Bihar) in India. I am a Full Stack Web Developer with React.js,  React Native , MSSQL as my tech stack.
                 <br />
-                In 2019, I am Pursuing, my Engineering with specialization in 'Computer Science and Engineering'.
+                passout in 2020 with 70%(7CGPA), my Engineering with specialization in 'Computer Science and Engineering'.
                 <br />
                 Working with the clients, my goal is always driven towards providing amazing experience with the best level of quality and service to them.
                 <br />

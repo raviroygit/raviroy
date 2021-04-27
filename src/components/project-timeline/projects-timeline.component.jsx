@@ -299,7 +299,7 @@ export default function TimeLine() {
                                <UrlButton href="https://smart-face-detect-app.herokuapp.com/" target="_blank">
                                     SEE LIVE
                                </UrlButton>
-                                 <UrlButton href="https://github.com/akjha96/Smart_Brain" target="_blank">
+                                 <UrlButton href="https://github.com/raviroygit" target="_blank">
                                      SOURCE CODE
                                    </UrlButton>
 
