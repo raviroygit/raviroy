@@ -8,14 +8,20 @@ import L_HTML5 from "../../assets/img/skills/html-5.svg";
 import L_CSS3 from "../../assets/img/skills/css3.svg";
 
 import L_REACT from "../../assets/img/skills/react.svg";
+import L_NEXTJS from "../../assets/img/skills/nextjs.svg";
+
 
 import L_REACT_BOOTSTRAP from "../../assets/img/skills/react-bootstrap.svg";
 import L_NODE_JS from "../../assets/img/skills/nodejs.svg";
+import L_EXPRESS_JS from "../../assets/img/skills/expressjs.svg";
+
 
 import L_MSSQL from "../../assets/img/skills/mssql.svg";
+import L_MONGODB from "../../assets/img/skills/mongodb.svg";
 
 import L_DIGITAL_OCEAN from "../../assets/img/skills/digital-ocean.svg";
 import L_GITHUB_PAGES from "../../assets/img/skills/github.svg";
+import L_AWS from "../../assets/img/skills/aws.svg";
 
 import L_JAVASCRIPT from "../../assets/img/skills/javascript.svg";
 import L_PYTHON from "../../assets/img/skills/python.svg";
@@ -62,6 +68,12 @@ const Skills = () => {
                       <Image src={L_REACT} alt="React" rounded className="image-style m-1"></Image> React
                     </a>
                   </span>
+
+                  <span className="p-2">
+                    <a className="text-dark text-decoration-none" href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
+                      <Image src={L_NEXTJS} alt="React" rounded className="image-style m-1"></Image> Nextjs
+                    </a>
+                  </span>
                   
 
                   <span className="p-2">
@@ -86,6 +98,11 @@ const Skills = () => {
                       <Image src={L_NODE_JS} alt="Node.js" rounded className="image-style m-1"></Image> Node.js
                     </a>
                   </span>
+                  <span className="p-2">
+                    <a className="text-dark text-decoration-none" href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
+                      <Image src={L_EXPRESS_JS} alt="Node.js" rounded className="image-style m-1"></Image> Express JS
+                    </a>
+                  </span>
                   
                 </Card.Text>
               </Card.Body>
@@ -98,6 +115,11 @@ const Skills = () => {
                 <hr />
                 <Card.Text className="card-text d-flex justify-content-start flex-column">
                   
+                <span className="p-2">
+                    <a className="text-dark text-decoration-none" href="https://aws.amazon.com/console/" target="_blank" rel="noopener noreferrer">
+                      <Image src={L_AWS} alt="Digital Ocean" rounded className="image-style m-1"></Image> AWS
+                    </a>
+                  </span>
 
                   <span className="p-2">
                     <a className="text-dark text-decoration-none" href="https://www.digitalocean.com/" target="_blank" rel="noopener noreferrer">
@@ -160,6 +182,12 @@ const Skills = () => {
                   <span className="p-2">
                     <a className="text-dark text-decoration-none" href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank" rel="noopener noreferrer">
                       <Image src={L_MSSQL} alt="MS-SQL" rounded className="image-style m-1"></Image> MS-SQL
+                    </a>
+                  </span>
+
+                  <span className="p-2">
+                    <a className="text-dark text-decoration-none" href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank" rel="noopener noreferrer">
+                      <Image src={L_MONGODB} alt="MS-SQL" rounded className="image-style m-1"></Image> MongoDb
                     </a>
                   </span>
                 </Card.Text>
