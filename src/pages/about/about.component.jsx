@@ -26,10 +26,31 @@ const About = () => {
                 <br />
                 passout in 2020 with 70%(7CGPA), my Engineering with specialization in 'Computer Science and Engineering'.
                 <br />
-                Working with the clients, my goal is always driven towards providing amazing experience with the best level of quality and service to them.
-                <br />
-                Along with that, I also help people as a COACH on their journey of becoming a professional programmer. I love learning about new technologies, what problems are they solving and How can I use them to build better and scalable products.
-                <br /> <br />
+                Hello!
+
+                I have proven working experience as software developer with good logical and analytical skills. I have delivered number of complex and real time processing projects that solves customer's business problems.
+
+                I can build everything from the front-end to the back-end and everything in between.
+
+                Main areas of expertise are:
+
+                - Frontend - JavaScript, Typescript, AJAX, HTML5/CSS3, pixel perfect and responsive layout
+
+                - Frontend libraries/frameworks: jQuery, AngularJS 1/2, React, React Native, RequireJS, Bootstrap 3
+
+                - Backend - PHP, Parse Server, NodeJS (MEAN stack)
+
+                - Hybrid Applications : Ionic/Angular, Ionic/React, Capacitor, Cordova, Flutter
+
+                - Databases - MongoDB, MySQL
+
+                - Cloud services - AWS,
+
+                - Payment Integrations : In App Purchase, Stripe, PayPal
+
+                - Tools - Git, GitHub, bug trackers, Jira
+
+                I am a self motivated guy with extra ordinary analytical, problem solving skills. When you will work with me you will found a great co-operation from me. I am very flexible to customer budget and always tries to meet their expectations.
                 <Col className="d-flex justify-content-center flex-wrap">
                   <div>
                     <a href="#contact">
@@ -39,7 +60,7 @@ const About = () => {
                     </a>
                   </div>
                   <div>
-                    <a href="https://drive.google.com/file/d/1XqzGpAOl_4OLGkDztIgoFFlNCGKxHODD/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                    <a href="https://drive.google.com/file/d/1pF5XckqtUQ_T89rZYW4h9xvskFVLgxKU/view" target="_blank" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-success">
                         My Resume
                       </Button>

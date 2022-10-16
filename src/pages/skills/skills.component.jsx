@@ -28,6 +28,11 @@ import L_PYTHON from "../../assets/img/skills/python.svg";
 import L_JAVA from "../../assets/img/skills/java.svg";
 import L_C from "../../assets/img/skills/c.svg";
 
+import React_Native from "../../assets/img/skills/react-native.png";
+import Expo from "../../assets/img/skills/expo.png";
+import AngularJs from "../../assets/img/skills/angularJs.png";
+import Cordova from "../../assets/img/skills/cordova.png";
+
 import "./skills.styles.css";
 
 const Skills = () => {
@@ -61,8 +66,6 @@ const Skills = () => {
                     </a>
                   </span>
                   
-
-                  
                   <span className="p-2">
                     <a className="text-dark text-decoration-none" href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
                       <Image src={L_REACT} alt="React" rounded className="image-style m-1"></Image> React
@@ -72,6 +75,30 @@ const Skills = () => {
                   <span className="p-2">
                     <a className="text-dark text-decoration-none" href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
                       <Image src={L_NEXTJS} alt="React" rounded className="image-style m-1"></Image> Nextjs
+                    </a>
+                  </span>
+
+                  <span className="p-2">
+                    <a className="text-dark text-decoration-none" href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer">
+                      <Image src={React_Native} alt="React" rounded className="image-style m-1"></Image> React Native
+                    </a>
+                  </span>
+
+                  <span className="p-2">
+                    <a className="text-dark text-decoration-none" href="https://docs.expo.dev/" target="_blank" rel="noopener noreferrer">
+                      <Image src={Expo} alt="React" rounded className="image-style m-1"></Image> Expo React Native
+                    </a>
+                  </span>
+
+                  <span className="p-2">
+                    <a className="text-dark text-decoration-none" href="https://angular.io/" target="_blank" rel="noopener noreferrer">
+                      <Image src={AngularJs} alt="React" rounded className="image-style m-1"></Image> Angular Js
+                    </a>
+                  </span>
+
+                  <span className="p-2">
+                    <a className="text-dark text-decoration-none" href="https://cordova.apache.org/" target="_blank" rel="noopener noreferrer">
+                      <Image src={Cordova} alt="React" rounded className="image-style m-1"></Image> Cordova Js
                     </a>
                   </span>
                   
