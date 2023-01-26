@@ -3,7 +3,8 @@ import ReactDOM from "react-dom";
 import "./testimonial.css";
 import Sonali from "../../assets/img/testimonial/sonali.JPG";
 import Maneesh from "../../assets/img/testimonial/maneesh.JPG";
-
+import Ravi1 from "../../assets/img/profile/profile.jpeg";
+import Ravi2 from "../../assets/img/projects/portfolio_new.png";
 
 const slideData = [
   {
@@ -24,7 +25,7 @@ const slideData = [
     index: 2,
     headline: "For Your Current Mood",
     description: "We thank Flatworld Solutions for the wonderful job in helping us develop our program. Everyone was professional, excellent and hard working. Thanks to them, we were able to achieve our goal on time, and we look forward to continue working with them in the future.",
-    src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/225363/guitar.jpg",
+    src: Ravi1,
     alt: "Ravi Roy"
 
   },
@@ -32,7 +33,7 @@ const slideData = [
     index: 3,
     headline: "Focus On The Writing",
     description: "We thank Flatworld Solutions for the wonderful job in helping us develop our program. Everyone was professional, excellent and hard working. Thanks to them, we were able to achieve our goal on time, and we look forward to continue working with them in the future.",
-    src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/225363/typewriter.jpg",
+    src: Ravi2,
     alt: "Ravi Roy"
 
   }
