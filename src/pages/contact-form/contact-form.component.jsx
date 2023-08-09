@@ -13,8 +13,8 @@ const ContactForm =() => {
                 <Row>
                     <Col className="d-flex justify-content-center flex-wrap">
                     <div className="m-2">
-                        <a href="mailto:ravi93448@yahoo.com" target="_blank" rel="noopener noreferrer">
-                           <Button variant="outline-danger" title="ravi93448@yahoo.com">
+                        <a href="mailto:ravi140398@gmail.com" target="_blank" rel="noopener noreferrer">
+                           <Button variant="outline-danger" title="ravi140398@gmail.com">
                             <i className="fas fa-envelope-square"></i> Email Me
                            </Button>
                         </a>
