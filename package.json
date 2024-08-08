@@ -2,6 +2,7 @@
   "name": "raviroy",
   "version": "0.1.0",
   "private": true,
+    "type": "module",
   "dependencies": {
     "@merc/react-timeline": "^0.1.42",
     "@testing-library/jest-dom": "^5.11.9",
